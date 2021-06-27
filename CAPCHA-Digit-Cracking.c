@@ -17,7 +17,6 @@ double density(int height, int width, int pixels[height][width]);
 double widest_row(int height, int width, int pixels[height][width]);
 
 
-
 int main(int argc, char *argv[]) {
     
     int height, width, start_row, start_column, box_width, box_height;
